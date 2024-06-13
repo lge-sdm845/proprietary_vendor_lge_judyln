@@ -270,42 +270,12 @@ PRODUCT_COPY_FILES += \
     vendor/lge/judyln/proprietary/vendor/lib/libssc_default_listener.so:$(TARGET_COPY_OUT_VENDOR)/lib/libssc_default_listener.so \
     vendor/lge/judyln/proprietary/vendor/lib/libsymphony-1.1.4.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsymphony-1.1.4.so \
     vendor/lge/judyln/proprietary/vendor/lib/libsymphonypower-1.1.4.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsymphonypower-1.1.4.so \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/AlacDecoderModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/AlacDecoderModule.so.1 \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/ApeDecoderModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/ApeDecoderModule.so.1 \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/AudioContextDetection.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/AudioContextDetection.so.1 \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/AudioSphereModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/AudioSphereModule.so.1 \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/CFCMModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/CFCMModule.so.1 \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/EtsiAmrWbPlusDecModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/EtsiAmrWbPlusDecModule.so.1 \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/EtsiEaacPlusEncAndCmnModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/EtsiEaacPlusEncAndCmnModule.so.1 \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/FlacDecoderModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/FlacDecoderModule.so.1 \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/HeaacDecoderModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/HeaacDecoderModule.so.1 \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/LdacModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/LdacModule.so.1 \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/SAPlusCmnModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/SAPlusCmnModule.so.1 \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/SVACmnModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/SVACmnModule.so.1 \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/VoiceWakeup_V2_Module.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/VoiceWakeup_V2_Module.so.1 \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/VorbisDecoderModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/VorbisDecoderModule.so.1 \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/WmaProDecoderModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/WmaProDecoderModule.so.1 \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/WmaStdDecoderModule.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/WmaStdDecoderModule.so.1 \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/activity.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/activity.so \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/cellinfo_tools.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/cellinfo_tools.so \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/chre_drv_bt.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/chre_drv_bt.so \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/chre_drv_gf.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/chre_drv_gf.so \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/chre_drv_loc.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/chre_drv_loc.so \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/chre_drv_modem.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/chre_drv_modem.so \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/chre_drv_wifi.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/chre_drv_wifi.so \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/chre_pal.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/chre_pal.so \
     vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/fastrpc_shell_0:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/fastrpc_shell_0 \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/fluence_voiceplus_module.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/fluence_voiceplus_module.so.1 \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/geofence.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/geofence.so \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/lg_nanoapp_pa.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/lg_nanoapp_pa.so \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/lg_nanoapp_sbd.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/lg_nanoapp_sbd.so \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/lg_nanoapp_su.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/lg_nanoapp_su.so \
     vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/libFastRPC_UTF_Forward_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libFastRPC_UTF_Forward_skel.so \
     vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/libVC1Dec.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libVC1Dec.so \
     vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/libVC1DecDsp_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libVC1DecDsp_skel.so \
     vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/libapps_mem_heap.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libapps_mem_heap.so \
     vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/libcamera_nn_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libcamera_nn_skel.so \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/libchre_slpi_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libchre_slpi_skel.so \
     vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/libcvpdsp_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libcvpdsp_skel.so \
     vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/libdspCV_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libdspCV_skel.so \
     vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/libdsp_streamer_add_constant.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libdsp_streamer_add_constant.so \
@@ -319,11 +289,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/libscveT2T_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libscveT2T_skel.so \
     vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/libsns_device_mode_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libsns_device_mode_skel.so \
     vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/libsns_low_lat_stream_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libsns_low_lat_stream_skel.so \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/libstabilitydomain_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libstabilitydomain_skel.so \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/libsysmon_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libsysmon_skel.so \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/libsysmondomain_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libsysmondomain_skel.so \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/lowi_client.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/lowi_client.so \
-    vendor/lge/judyln/proprietary/vendor/lib/rfsa/adsp/mmecns_module.so.1:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/mmecns_module.so.1 \
     vendor/lge/judyln/proprietary/vendor/lib/sensors.hal.tof.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.hal.tof.so \
     vendor/lge/judyln/proprietary/vendor/lib/sensors.sar.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.sar.so \
     vendor/lge/judyln/proprietary/vendor/lib/sensors.ssc.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.ssc.so \
